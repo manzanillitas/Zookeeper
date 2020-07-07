@@ -1,0 +1,6 @@
+n = int(input())
+d = int(input())
+f = int(input())
+t = int(input())
+c = (n * d) + (f * 2) + (t * (n -1))
+print(c)
